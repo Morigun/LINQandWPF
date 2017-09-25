@@ -1,0 +1,10 @@
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\bin\Debug\LINQandWPF.exe
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\bin\Debug\LINQandWPF.pdb
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\ResolveAssemblyReference.cache
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\Window1.baml
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\Window1.g.cs
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\App.g.cs
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\LINQandWPF_MarkupCompile.cache
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\LINQandWPF.g.resources
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\LINQandWPF.exe
+C:\MyDOC\Проекты\C#\Developer\LINQandWPF\LINQandWPF\obj\Debug\LINQandWPF.pdb
